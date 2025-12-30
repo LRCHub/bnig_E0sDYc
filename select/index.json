@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ぼくらのなぞなぞ (Instrumental)",
+  "base_artist": "角巻わため",
+  "createdAt": "2025-12-30T13:58:28.137418Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぼくらのなぞなぞ",
+      "artist": "角巻わため",
+      "has_synced": false,
+      "path": "select/pl_01_ぼくらのなぞなぞ_角巻わため.txt"
+    }
+  ]
+}
